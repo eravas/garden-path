@@ -1,6 +1,6 @@
 if SHIELD_GARDEN_LEFT
 
-config ZMK_GARDEN
+config ZMK_KEYBOARD_NAME
 	default "Garden"
 
 config ZMK_SPLIT_ROLE_CENTRAL
