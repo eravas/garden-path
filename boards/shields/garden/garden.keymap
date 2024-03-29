@@ -73,7 +73,7 @@
 &kp C_MUTE    &kp ESC    &kp Q     &kp W   &kp E      &kp R                                           &none  &none  &none  &none  &none  &none 
 &kp C_VOL_UP  &kp LSHFT  &kp A     &kp S   &kp D      &kp F                                           &none  &none  &none  &none  &none  &none
 &kp C_VOL_DN  &kp LCTRL  &kp Z     &kp X   &kp C      &kp V                                           &none  &none  &none  &none  &none  &none 
-&kp PSRCN     &kp LEFT   &kp DOWN  &kp UP  &kp RIGHT  &to DEFAULT  &kp SPACE  &kp R     &none  &none  &none  &none  &none  &none  &none  &none 
+&kp PSCRN     &kp LEFT   &kp DOWN  &kp UP  &kp RIGHT  &to DEFAULT  &kp SPACE  &kp R     &none  &none  &none  &none  &none  &none  &none  &none 
                                                                               &kp E     &none 
                                                                               &kp Q     &none 
 			>;
