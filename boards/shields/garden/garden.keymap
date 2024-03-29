@@ -1,5 +1,6 @@
-#include <zmk/app/dts/behaviours.dtsi>
 #include <dt-bindings/zmk/keys.h>
+#include <behaviours.dtsi>
+
 
 #define DEFAULT  0
 #define NUMF     1
