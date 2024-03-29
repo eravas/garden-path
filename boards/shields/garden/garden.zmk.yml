@@ -1,0 +1,12 @@
+file_format: "1"
+id: garden
+name: Garden
+type: shield
+url: https://github.com/rien-et-la-reine/garden
+requires: [pro_micro]
+features:
+  - keys
+  - display
+siblings:
+  - garden_left
+  - garden_right

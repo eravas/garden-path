@@ -1,0 +1,17 @@
+if SHIELD_GARDEN_LEFT
+
+config ZMK_GARDEN
+	default "Garden"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+	default y
+
+endif
+
+if SHIELD_GARDEN_LEFT || SHIELD_GARDEN_RIGHT
+
+config ZMK_SPLIT
+	default y
+
+endif
+
