@@ -15,14 +15,14 @@
 // | ESC  |  Q   |  W   |  E   |  R   |  T   |                                        |  Y   |  U   |  I   |  O   |  P   |  `~  |
 // | ENTR |  A   |  S   |  D   |  F   |  G   |                                        |  H   |  J   |  K   |  L   |  ;   |  '   |
 // | TAB  |  Z   |  X   |  C   |  V   |  B   |                                        |  N   |  M   |  ,   |  .   |  /   |  \   |
-// | C.LCK| LFT  |  UP  | DWN  | RGHT | h.L1 |SHFT( )|CTRL(()|      |WIN())|SHFT(BSPC)| h.L2 |  lft |  up  |  dwn | rght |  ins |
+// | C.LCK| LFT  |  DWN |  UP  | RGHT | h.L1 |SHFT( )|CTRL(()|      |WIN())|SHFT(BSPC)| h.L2 |  lft |  up  |  dwn | rght |  ins |
 //                                                   |ALT ({)|      |ALT(})|
 //                                                   |MEH ([)|      |HYP(])|
 			bindings = <
 &kp ESC   &kp Q     &kp W   &kp E     &kp R      &kp T                                                                               &kp Y          &kp U     &kp I      &kp O     &kp P      &kp GRAVE 
 &kp RET   &kp A     &kp S   &kp D     &kp F      &kp G                                                                               &kp H          &kp J     &kp K      &kp L     &kp SEMI   &kp SQT 
 &kp TAB   &kp Z     &kp X   &kp C     &kp V      &kp B                                                                               &kp N          &kp M     &kp COMMA  &kp DOT   &kp FSLH   &kp BSLH 
-&kp CLCK  &kp LEFT  &kp UP  &kp DOWN  &kp RIGHT  &mo NUMF  &mt LSHFT SPACE  &mt LCTRL LPAR            &mt LGUI RPAR  &mt RSHFT BSPC  &mo NAVMEDIA   &kp LEFT  &kp UP     &kp DOWN  &kp RIGHT  &kp INS 
+&kp CLCK  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &mo NUMF  &mt LSHFT SPACE  &mt LCTRL LPAR            &mt LGUI RPAR  &mt RSHFT BSPC  &mo NAVMEDIA   &kp LEFT  &kp UP     &kp DOWN  &kp RIGHT  &kp INS 
                                                                             &mt LALT LBRC             &mt RALT RBRC 
                                                                             &mt LC(LS(LALT)) LBKT     &mt RC(RS(RA(RGUI))) RBKT 
 			>;
