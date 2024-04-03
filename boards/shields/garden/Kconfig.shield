@@ -1,5 +1,5 @@
-config GARDEN_LEFT
+config SHIELD_GARDEN_LEFT
 	def_bool $(shields_list_contains,garden_left)
 
-config GARDEN_RIGHT
+config SHIELD_GARDEN_RIGHT
 	def_bool $(shields_list_contains,garden_right)
